@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\thiag\OneDrive\Documentos\thiago_waldrich_2\dsmeta\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
